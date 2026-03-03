@@ -10,6 +10,5 @@
         ["bastardkb/scylla", "vendor"],
         ["bastardkb/tbkmini", "vendor"],
         ["bastardkb/skeletyl", "vendor"],
-        ["bastardkb/charybdis/3x6", "topball"]
     ]
 }
