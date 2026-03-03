@@ -9,7 +9,7 @@
         ["bastardkb/dilemma/3x5_2", "vendor"],
         ["bastardkb/scylla", "vendor"],
         ["bastardkb/tbkmini", "vendor"],
-        ["bastardkb/skeletyl", "vendor"]
-        ["bastardkb/charybdis/3x6/keymaps", "topball"]
+        ["bastardkb/skeletyl", "vendor"],
+        ["bastardkb/charybdis/3x6", "topball"]
     ]
 }
